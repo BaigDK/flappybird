@@ -1,4 +1,7 @@
 # NEAT-Flappy-Bird
+
+<img src=https://raw.githubusercontent.com/Ishan7390/FlappyBirdAI/master/FB.gif>
+
 An AI that plays flappy bird! Using the NEAT python module.
 
 Using NEAT Python to learn to play Flappy Bird. This code uses search and optimise technique called genetic algorithm which creates a particular number of random configurations, the best configuration of them is used to create the next generation of neural networks, as we repeat the process, with time, we observe that the performance gets better.
